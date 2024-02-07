@@ -1,0 +1,6 @@
+import org.apache.hadoop.mapreduce.lib.input.SequenceFileInputFormat;
+public class FunctionUse12175 {
+public void funcUse() {
+SequenceFileInputFormat sequencefileinputformat = new SequenceFileInputFormat();
+}
+}

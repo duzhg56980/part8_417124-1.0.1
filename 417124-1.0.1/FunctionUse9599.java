@@ -1,0 +1,6 @@
+import org.apache.hadoop.mapred.StatisticsCollector.StatUpdater;
+public class FunctionUse9599 {
+public void funcUse() {
+StatUpdater statupdater = new StatUpdater();
+}
+}
